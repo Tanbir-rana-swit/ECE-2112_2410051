@@ -48,7 +48,7 @@
 
 | Lab Task | Title | Link |
 | :---: | :---: | :---: |
-| 00 | Installation of LogiSim |[LAB-1]()|
+| 00 | Installation of LogiSim |[LAB-1](https://github.com/Tanbir-rana-swit/ECE-2112_2410051/blob/50795da221362afd0dc6d5a1713797e47d06d995/Lab%20Reports/Lab-00.md)|
 | 01 | Introduction of LOGISIM and Implementation of Basic Logic Gates |[LAB-1](https://github.com/Tanbir-rana-swit/ECE-2112_2410051/blob/da152bf12d504d80066e620b5df85a9186a53396/Lab%20Reports/Lab-01.md)|
 
  
