@@ -32,7 +32,7 @@
 
 ## Submitted by:
 
-### **MD.FARHAN ISHRAQ**
+### **TANBIR RANA SWEET**
 #### Roll No: 2410051
 #### Registration No: 1104
 #### Department of Electrical and Computer Engineering
