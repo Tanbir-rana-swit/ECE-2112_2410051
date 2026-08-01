@@ -14,7 +14,7 @@
 
 ## Installation
 ### Step 1: Go to the search engine and search Logisim Evolution
-<img width="1919" height="613" alt="image" src="https://github.com/user-attachments/assets/38d63a62-135d-4a0e-afe0-567fbec1f400" />
+<img width="1919" height="613" alt="image" src="[https://i.postimg.cc/q7S6f9B5/step-1-search.png](https://i.postimg.cc/q7S6f9B5/step-1-search.png)" />
 
 ### Step 2: Go to the github link
 <img width="1908" height="659" alt="image" src="https://github.com/user-attachments/assets/468d2f1e-97ed-441f-a7e1-fa6eff319023" />
