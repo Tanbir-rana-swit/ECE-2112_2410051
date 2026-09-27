@@ -48,7 +48,7 @@
 
 | Lab Task | Title | Link |
 | :---: | :---: | :---: |
-| 00 |  |[LAB-1]()|
+| 00 |  |[LAB-1](https://github.com/Tanbir-rana-swit/ECE-2112_2410051/blob/4c702c5328fd1f215d5e1e4888d9789f0fd14256/lab%20report/Lab_01.pdf)|
 | 01 |  |[LAB-1]()|
 
  
